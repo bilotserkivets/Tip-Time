@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tip Time</string>
+    <string name="cost_of_service">Cost of Service?</string>
+    <string name="amazing_20">Amazing (20%)</string>
+    <string name="good_18">Good (18%)</string>
+    <string name="ok_15_radiogroup_androidx_constraintlayout_widget_constraintlayout"><![CDATA[OK (15%) /> </RadioGroup> </androidx.constraintlayout.widget.ConstraintLayout>]]></string>
+    <string name="ok_15">OK (15%)</string>
+    <string name="calculate">Calculate</string>
+    <string name="tip_amount">Tip Amount: %s</string>
+</resources>
